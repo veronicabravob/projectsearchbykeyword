@@ -2,7 +2,7 @@
 {
    "fields": {
       "project": {
-         "key": "SBK"
+         "key": "SIW"
       },
       "summary": "Test Execution for Searching for a term",
       "description":"Link report: http://localhost:8080/job/search_by_keyword/HTML_20Report/",
